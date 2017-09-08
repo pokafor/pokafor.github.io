@@ -1,0 +1,44 @@
+body{
+	background-image: url("celeb.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow-y: hidden;
+	height: 100vh;
+	overflow-y: scroll;
+}
+
+nav ul{
+	text-align: right;
+	padding-right: 30px;
+	
+}
+
+nav ul li {
+	display: inline;
+	padding-right: 40px;
+	background-color: transparent;
+	font-size: 20px;
+	color: #FFF;
+
+}
+
+nav ul a {
+	text-decoration: none;
+	color:#3498db;
+	}
+
+	#overlay{
+	background-color: rgba(0,0,0,0.7);
+	height: 8vh;
+	padding: 0px;margin: 0px;
+	overflow-y: hidden;
+}
+
+table {
+	margin-top: 100px;
+	text-align: left;
+	color: #FFF;
+	font-size: 30px;
+
+}
+

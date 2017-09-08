@@ -1,0 +1,88 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-image: url("smiley.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow-y: hidden;
+	height: 100%;
+}
+nav ul{
+	text-align: right;
+	padding-right: 30px;
+	
+}
+
+nav ul li {
+	display: inline;
+	padding-right: 40px;
+	background-color: transparent;
+	font-size: 20px;
+	color: #FFF;
+
+
+}
+
+
+section {
+	text-align: right;
+	font-family: 'Courgette', cursive;
+	font-size: 30px;
+	width:100%;
+
+} 
+#quote
+{
+	margin-top: 10px;
+	margin-left: 100px;
+	float: left;
+	border: 2px solid white;
+	border-radius: 150%;	
+	width: 300px;
+}
+#quote p
+{
+	text-align: center;
+	padding: 50px;
+	color: #BF76BD;
+}
+
+#welcome
+{
+	padding-top: 300px;
+	margin-right: 130px;
+	color:#BF76BD;
+
+	
+	
+}
+#overlay
+{
+	background-color: rgba(0,0,0,0.7);
+	height: 100vh;
+	padding: 0px;margin: 0px;
+	overflow-y: hidden;
+}
+
+nav ul a {
+	text-decoration: none;
+	color:#3498db;
+}
+div h1 {
+	font-size: 200;
+}
+div h3 {
+	font-size: 50;
+}
+#earlylife{
+	background-image: url("backgrd.jpg");
+}
+
+#story{
+	
+	width: 800px;
+	margin: 0 auto;
+
+}
